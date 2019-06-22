@@ -15,8 +15,8 @@ body {
   
   header, nav, footer {
     width: 100%;
-    padding-top: 40px;
-    padding-bottom: 50px;
+    padding-top: 35px;
+    padding-bottom: 35px;
   }
   
   header, nav {
@@ -52,18 +52,14 @@ body {
     p {
       margin-left: 20px;
       margin-right: 20px;
-      margin-bottom: -10px;
-      padding-top: 20px;
-      padding-bottom: 20px;
+      margin-bottom: 20px;
+      padding-top: 15px;
+      padding-bottom: 15px;
       font-weight: bold;
       color: #777;
       background: #ebebeb;
     }
   
-    #second-paragraph {
-      margin-bottom: 20px;
-      font-weight: normal;
-    }
   
   footer {
       clear: both;
